@@ -37,12 +37,6 @@ Follow these steps to set up IP-Tracer on your local machine:
 
 3. View the geolocation details provided in the output.
 
-## Contributing
-Contributions are welcome! To get started:
-1. Fork this repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and open a pull request.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
